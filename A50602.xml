@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorial to the Lords of His Majesties Privy Council, anent the English clipt money, and other current coins in Scotland</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50602</idno>
+            <idno type="STC">Wing M1697</idno>
+            <idno type="STC">ESTC R23542</idno>
+            <idno type="EEBO-CITATION">12767312</idno>
+            <idno type="OCLC">ocm 12767312</idno>
+            <idno type="VID">93600</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93600)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 698:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Memorial to the Lords of His Majesties Privy Council, anent the English clipt money, and other current coins in Scotland</title>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  Great Britain.</term>
+               <term>Currency question --  Scotland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:93600:1" rendition="simple:additions"/>
+            <head>
+               <hi>MEMORIAL</hi> To the Lords of his Majeſties Privy Council, anent the <hi>Engliſh</hi> Clipt Money, and other Current Coins in <hi>Scotland.</hi>
+            </head>
+            <p>COnſidering the great Diminution of the intrinſick Value of the <hi>Engliſh</hi> Money by Clipping, without doubt they will uſe all Indeavours to lodge as much of the Loſs thereof upon us as poſſible they can, and that with all Diligence imaginable; eſpecially the Parliament of <hi>England</hi> being to fall upon ſome Courſe for redreſſing the ſame, and prevent<g ref="char:EOLhyphen"/>ing the like for the future: It doth therefore concern us in this Kingdom to prevent any loſs we may ſuſtain by the Fault of others.</p>
+            <p>The Remedy appears to be Two-fold, Firſt, to call down the Value of the <hi>Engliſh</hi> clipt Money, and then to call up or raiſe the Value of the other Cur<g ref="char:EOLhyphen"/>rant Coins of <hi>Scotland,</hi> whether Forraign or Domeſtick.</p>
+            <p>For the firſt, it is moſt reaſonable that the current Value of Monies ſhould be leſsned, according as the intrinſick Value is leſsned, and the intrinſick Value of <hi>Engliſh</hi> clipt Money being leſsned by Clipping to a third Part, and in ſome Species to a half loſs of the Value of what it was at firſt, it ought certainly to be undervalued accordingly.</p>
+            <p>All that can be ſaid againſt it, appears to be of no great weight, for the loſs of particular perſons who are poſſeſſed of that Clipt Money, will ſtill prove great<g ref="char:EOLhyphen"/>er and greater; As alſo that of the Nation in general, ſo long as there is not an adequat Remedy found out for freeing the Nation of the ſame, though with loſs, and preventing the like for the time to come: And in one Word, this appears to be the only Reaſon why our current Coin is carried forth of the Kingdom, becauſe the <hi>Engliſh</hi> after they have had the benefit of Clipping their own Money, they ſend down theirs when light, to barter with our Goods and heavy Money, whereby their Advantage is as great as our Loſs is.</p>
+            <p>It is not to be regairded, that if ſuch Meaſure be taken with us, the <hi>Engliſh</hi> will buy none of our Beaſts and Goods, for what they by from us is for their own Advantage, and not for ours; And if it be for their Advantage to to buy from us, they can make their payments in Bills of Exchange as they did formerly: And it is obſervable, that ſince the Clipping of their Money, their Payments for <hi>Scots</hi> Commodities hath been by the Species of Money, Ten, for one more than what their Payments were formerly.</p>
+            <p>If therefore ſome ſpeedy and effectual Courſe be not fallen upon for prevent<g ref="char:EOLhyphen"/>ing the Prejudice we ſuſtain by the Clipt Money, it will both take away all
+<pb n="2" facs="tcp:93600:2"/>Encouragement from the Importers thereof, and give Encouragement to the Exporters of the ſame, and prevent the Exportation of our other Current Coins, and the leſs Value ye ſet upon the Clipt Money, the more Value you ſet upon the unclipt, which is equivalent to raiſing the Value thereof, and will prove as great an Encouragement for the Importing of the unclipt Species of Money, as if it were actually called up to a higher Value than for what it paſt former<g ref="char:EOLhyphen"/>ly in this Kingdom.</p>
+            <p>As to the ſecond Remedy, its believed by ſome, that the raiſing of the current Coyns of a Kingdom, in value will cauſe it to be imported in hope of gain, and keep it from being exported, for fear of loſs.</p>
+            <p>The firſt view of things are often pleaſant, when the end and Progreſs there<g ref="char:EOLhyphen"/>of is not.</p>
+            <p>For it is certain, that one Ounce of Silver of equal finneſs, is, and all<g ref="char:EOLhyphen"/>wiſe will be of equal value with an other Ounce of Silver of the ſame finneſs, all the world over.</p>
+            <p>And it is as certain, that Money is not only the true meaſure of all our o<g ref="char:EOLhyphen"/>ther Means and Riches in the Kingdom, but alſo of our Forreign Commerce with Strangers, which therefore ought to be kept juſt and conſtant, to avoid theſe confuſions, which ever accompanie ſuch alterations.</p>
+            <p>For firſt at home, if the common meaſure be changed, our Lands, Rents, and Commodities both Forreign and Domeſtick muſt alter in proportion, indeed thoſe who are to borrow or receive Money upon former Contracts, will be de<g ref="char:EOLhyphen"/>frauded of their due proportionably, as the Money is raiſed above its former value which they would ſoon find to their great loſs, if they went to Mercat with their new Money; if the ſtranger Merchant, or thoſe of our own Nation bring in Forreign Wars, and find the Money raiſed, ſhall not they raiſe the price of their Commodities proportionably, and ſhall not the price of the Merchants Exchange with Forreign Countries, riſe in proportion with our Money, and conſe<g ref="char:EOLhyphen"/>quently why may not our Monies be carried out of the Country, to as much profit, as before the alteration.</p>
+            <p>If it be thought, that the raiſing of it, will cauſe forreign Money come in, it muſt be done either by the Merchant who hath exported our Wars; or by the Merchant who intends to buy of our Commodities; or by him who brings in Forraign Coyn, as Merchandiſe to gain upon it, according to the value its raiſed with us.</p>
+            <p>For the firſt if the value called up, be but ſmall, it will bring in little or no Treaſure, becauſe the Merchant will rather bring in Wars, upon which, there is uſually a competent gain.</p>
+            <p>As to the ſecond, there will be as little Encouragment, becauſe the price of Commodities will raiſe in value proportionably, as our Money doth.</p>
+            <p>And as to the third, its the ſame thing, for if they bring Money upon the ex<g ref="char:EOLhyphen"/>pectation of Advantage, they muſt either receive the value thereof, in Mo<g ref="char:EOLhyphen"/>ney, Goods, or by Bills of Exchange, by the firſt, there can be no Advantage becauſe Money is the ſame with Money, and the Goods raiſe proportionably, as ſaid is; neither by the laſt, becauſe the price of Exchange raiſing propor<g ref="char:EOLhyphen"/>tionally will take from the one hand what is gained by the other: for the Merchants Exchange by Bills is a practiſe, whereby they that have Money in one Countrie, may give in the ſame to receive Money again in an other Coun<g ref="char:EOLhyphen"/>tay, upon certain conditions agreed upon; whereby Merchants are accomo<g ref="char:EOLhyphen"/>dated, without tranſporting of Treaſure.</p>
+            <pb n="3" facs="tcp:93600:2"/>
+            <p>Theſe Exchanges are not made at equal Values of the Monies only, becauſe he that delivereth his Money hath regard to the hazard of the Debt and time of forbearance, but that which cauſeth really and truly an under or over-va<g ref="char:EOLhyphen"/>lueing of Money by exchange, is the plenty or ſcarcity thereof, where ex<g ref="char:EOLhyphen"/>changes are made, and as that makes the price of exchange high or low, ſo the over or under ballance of our tread doth certainly occaſion plenty or ſcarcity of Money.</p>
+            <p>For ſuppoſe <hi>Holland,</hi> or <hi>England</hi> import more Goods in value to us than we ſell them, then it's evident their Merchants not only carry away our Treaſure to ballance Accounts between us and them, but alſo money being to be deliver<g ref="char:EOLhyphen"/>ed by us to them by exchange, it is therefore undervalued by the Receivers whatever over-value we may put upon it our ſelves, and this occaſions the raiſe of exchange.</p>
+            <p>But ſuppoſe on the other hand our currant Coin ſhould be ſo much undervalu<g ref="char:EOLhyphen"/>ed by us, as that ninety pounds being carried over <hi>in ſpecie,</hi> would ſatisfie for an hundred pounds at <hi>Amſterdam,</hi> yet that would never occaſion the carrying out of our Money, if it were not becauſe of the over-ballance of Trade: For ſuppoſe the Wares brought from <hi>Holland,</hi> extend to the value of five hundred Pound yearly, and our Commodities tranſported to them, only four hundred Pound yearly, Is it not evident that there muſt be an hundred Pound of ballance; and this Loſs muſt be tho' the returns were only in Money: For the <hi>Dutch</hi> carrying away from us five hundred Pound of Money for their Wares, and we bringing home four hundred Pound only of their Coin for our Commodities, there will be ſtill an hundred Pounds loſs, and if our Mo<g ref="char:EOLhyphen"/>ney be ſo much undervalued more than theirs, ninety Pounds carried over will pay that ballance of an hundred Pound at <hi>Amsterdam.</hi>
+            </p>
+            <p>Again, ſuppoſe we carry as much Wares in value to <hi>Holland,</hi> as they bring in to us; by which the means is equal for each to make their Returns by Ex<g ref="char:EOLhyphen"/>change, without carrying away money from either State, and that the <hi>Scots</hi> Merchants ſhould notwithſtanding, bring his Returns in ready money, becauſe of the Advantage by the calling up of the money in <hi>Scotland.</hi> Yet it muſt of neceſſity follow, that the <hi>Scots</hi> Merchant ſhall want as much means of Exchange with the <hi>Dutch,</hi> as he brought money from them: for though ſome both export and import Wares, ſome export, others import only; ſome deliver out their money by Exchange, others take it up; ſome carries out money, and others bring it in: yet all the money in a Countrey; that is not the true gain by the over ballance of Trade, muſt of neceſſity, be ſent back to ballance the Exchange. Whereby we may plainly ſee, that what money is carried out within the balance of Trade, tho overvalued by us, cannot be conſiderable; for it muſt of neceſſity return to us again: and we loſe only, and ſhall always loſe thoſe monies which are made without the ballance of our Trade, let the <hi>ſpecies</hi> of our money be ne<g ref="char:EOLhyphen"/>ver ſo much rais'd and overvalued.</p>
+            <p>Theſe Circumſtances being conſidered, the over-valueing of Money, either Forreign or Domeſtick, will be found no good Expedient to promote the de<g ref="char:EOLhyphen"/>ſigned Ends: Treaſure cannot be forced into a Nation, to make it really ours, can only be by a lawful Gain; this lawful Gain in a Nation, where there is no Silver or Gold Miens, can be by no wiſe, but by the true and juſt bal<g ref="char:EOLhyphen"/>lance of a well adjuſted Trade, and that is when their export exceeds their import: But on the contrary, the prejudice will be ſo great, that it will confound the Property of the Subject, leſſen the Revenue of the King, oc<g ref="char:EOLhyphen"/>caſion
+<pb n="4" facs="tcp:93600:3" rendition="simple:additions"/>damnage to ſome men, give unreaſonable and unjuſt advantage to o<g ref="char:EOLhyphen"/>thers, diſturb the Affairs of the Nation to no purpoſe, violate the Laws of Forreign Commerce; and if we were a Nation that bore any bulk in Trade, might cauſe other Princes and States raiſe their Coin in proportion with ours, ſettle Affairs of Commerce to our prejudice; and then grant all the Advantages we propoſe to our ſelves, what will it ſignifie?</p>
+            <p>If notwithſtanding of what is ſaid, Your Lordſhips ſhal think it neceſſar to make ſome alterations of the value of currant Coin, eſpecial regard would be had to the comparative value of it: For as an Ounce of Silver is alwiſe of an e<g ref="char:EOLhyphen"/>qual intrinſick value every-where, yet ſo there being no common Standard for the intrinſick value of any thing more than what is put upon it by the general and unanimous conſent of People and Nations, it muſt neceſſarily follow, that we ought to conſider what value our neighbour Nations put upon the currant Coin of our Kingdom, whether Forraign or Domeſtick, and that in relation to theſe particulars.</p>
+            <p>
+               <hi>Firſt,</hi> To conſider and examine, if the Gold to Silver be of the like pro<g ref="char:EOLhyphen"/>portionable Value in <hi>Scotland,</hi> as the Gold is to Silver in <hi>France, Spain, Hol<g ref="char:EOLhyphen"/>land,</hi> and other Countries.</p>
+            <p>Secondly, to compare the alloye of Gold and Silver in <hi>Scotland,</hi> with that of other Countries.</p>
+            <p>Thirdly, to conſider if the Coin be of equal value with the current price of Bullion, the charge of coining only deduc'd, if any reformation of our current Coin be neceſſary, eſpecial care muſt be had to theſe Conſiderations; for if the value of Gold be rais'd above the value of ſilver, more than pro<g ref="char:EOLhyphen"/>portionably, it will make us plenty of Gold. But all our money ſhall be car<g ref="char:EOLhyphen"/>ried out with loſs, and the Nation impair'd in its Treaſure, as it did in <hi>England</hi> above thirty year ago, when Gold was call'd up ten of a hundred, and Silver not proportionably. So if the Silver, or particular denominations of Coin be rai<g ref="char:EOLhyphen"/>ſed, the one more than the other, or more than the Gold in proportion, the ſame conſequence will follow as to that of the Gold, and will afford no<g ref="char:EOLhyphen"/>thing but a Trade, and Barter of money with money, according to the real and intrinſick value of the different <hi>ſpecies</hi>'s, to the great prejudice of the Trade, and impoveriſhing of the Nation.</p>
+            <p>For the laſt Conſideration, it doth not ſo properly belong to your Lord<g ref="char:EOLhyphen"/>ſhips as to the High Court of Parliament; therefore ſhall ſay nothing of it.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
